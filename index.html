@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <title>Josh Olson</title>
     <link rel="stylesheet" href="style.css">
+    
+    <!-- The firebase script needs to be placed above other scripts in the page. -->
     <script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
     <script>
       // Initialize Firebase
@@ -16,7 +18,18 @@
       };
       firebase.initializeApp(config);
     </script>
+    
+    <!-- End of firebase scripts, place all other scripts below here. -->
     <script src="script.js"></script>
+    <style> 
+      @font-face {
+        font-family: myFirstFont;
+        src: url(MesloLGSDZ-Regular.ttf);
+      }
+      h1 {
+        font-family: myFirstFont;
+      }
+  </style>
   </head>
   <body>
     <!-- page content -->
