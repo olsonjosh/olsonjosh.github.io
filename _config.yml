@@ -1,13 +1,13 @@
 # Setup
 title:        Project or Site name
 tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
+baseurl:      "https://j-o/io"
 paginate:     1
 
 # About/contact
 author:
   name:       Author name
-  url:        http://yourhomepage.com 
+  url:        https://j-o.io
 
 # Gems
 gems:
