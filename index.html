@@ -1,13 +1,92 @@
----
-layout: default
-title: {{ site.name }}
----
-
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<!doctype html>
+<html lang=en>
+<head>
+    <meta charset=utf-8>
+    <link href="https://fonts.googleapis.com/css?family=Condiment|Open+Sans:300" rel="stylesheet">
+    <title>Josh Olson</title>
+    <style>
+        body {
+            background-color: #222222;
+            font-family: 'Open Sans', sans-serif;
+            color: #F0FFFF;
+            font-size: 18px;
+        }
+        nav {
+            font-size: 22px;
+            width: 100%;
+            text-align: center;
+            list-style: none;
+            margin-left: 0;
+            padding: 0;
+        }
+        a:link {
+            text-decoration: none;
+            color: #24494F;
+            text-align: left;
+        }
+        a.current {
+            color: #F0FFFF;
+        }
+        a:hover {
+            color: #FF5032;
+        }
+        a.logo {
+            color: #F0FFFF;
+            font-family: 'Condiment', cursive;
+            font-size: 32px;
+            text-shadow: 0.1em 0.1em 0.1em black;
+        }
+        div.logo {
+            display: block;
+            padding: 0;
+            margin: 0;
+            width: 100%;
+            text-align: center;
+        }
+        hr {
+            display: block;
+            border: 1px solid #F0FFFF;
+        }
+        p {
+            text-shadow: 0.1em 0.1em 0.1em black;
+            text-align: left;
+        }
+        div.outer {
+            text-align: center;
+        }
+        div.inner {
+            width: 80%;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="logo">
+        <a class="logo" href="index.html">josh olson</a>
+    </div>
+    <hr>
+    <header>
+        <nav>
+        <a class="current" href="index.html">home</a>
+        &nbsp;
+        <a href="index.html">about</a>
+        &nbsp;
+        <a href="index.html">blog</a>
+        &nbsp;
+        <a href="index.html">repos</a>
+        &nbsp;
+        <a href="index.html">angular</a>
+        &nbsp;
+        <a href="index.html">contact</a>
+        </nav>
+    </header>
+    <hr>
+    <div class="outer">
+        <div class="inner">
+            <p>Hi, my name is Josh. I've setup this site to store projects I'm working on.
+                If you have any questions, or especially if you have any issues with the site, feel free to contact me.
+            </p>
+        </div>
+    </div>
+</body>
+</html>
