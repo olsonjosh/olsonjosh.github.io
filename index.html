@@ -9,23 +9,39 @@
             background-color: #222222;
             font-family: 'Open Sans', sans-serif;
             color: #F0FFFF;
-            font-size: 18px;
+            padding: 0;
+            margin: 0;
+        }
+        header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: #222222;
+            box-shadow: 0 -12px 20px 1px black;
+            display: table;
+        }
+        div.logo {
+            padding: 7px 2em 7px 2em;
+            text-align: left;
+            display: table-cell;
         }
         nav {
-            font-size: 22px;
-            width: 100%;
-            text-align: center;
-            list-style: none;
-            margin-left: 0;
-            padding: 0;
+            display: table-cell;
+            text-align: right;
+            font-size: 1.4em;
+            padding-right: 0.5em;
         }
         a:link {
             text-decoration: none;
             color: #24494F;
             text-align: left;
+            vertical-align: middle;
         }
         a.current {
             color: #F0FFFF;
+        }
+        a.nav {
+            padding-right: 0.5em;
         }
         a:hover {
             color: #FF5032;
@@ -36,50 +52,34 @@
             font-size: 32px;
             text-shadow: 0.1em 0.1em 0.1em black;
         }
-        div.logo {
-            display: block;
-            padding: 0;
-            margin: 0;
-            width: 100%;
-            text-align: center;
-        }
-        hr {
-            display: block;
-            border: 1px solid #F0FFFF;
-        }
         p {
+            text-shadow: 0.1em 0.1em 0.1em black;
             text-align: left;
+            margin: 79px auto;
         }
         div.outer {
             text-align: center;
         }
         div.inner {
-            width: 80%;
+            width: 26em;
             display: inline-block;
         }
     </style>
 </head>
 <body>
-    <div class="logo">
-        <a class="logo" href="index.html">josh olson</a>
-    </div>
-    <hr>
     <header>
+        <div class="logo">
+            <a class="logo" href="index.html">josh olson</a>
+        </div>
         <nav>
-        <a class="current" href="index.html">home</a>
-        &nbsp;
-        <a href="index.html">about</a>
-        &nbsp;
-        <a href="index.html">blog</a>
-        &nbsp;
-        <a href="index.html">repos</a>
-        &nbsp;
-        <a href="index.html">angular</a>
-        &nbsp;
-        <a href="index.html">contact</a>
+            <a class="nav current" href="index.html">home</a>
+            <a class="nav" href="index.html">about</a>
+            <a class="nav" href="index.html">blog</a>
+            <a class="nav" href="index.html">repos</a>
+            <a class="nav" href="index.html">angular</a>
+            <a class="nav" href="index.html">contact</a>
         </nav>
     </header>
-    <hr>
     <div class="outer">
         <div class="inner">
             <p>Hi, my name is Josh. I've setup this site to store projects I'm working on.
