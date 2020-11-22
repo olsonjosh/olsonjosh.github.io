@@ -11,10 +11,10 @@ module.exports = withPlugins([
       verbose: true,
     },
     imagesPublicPath: '/olsonjosh/_next/static/images/',
+    optimizeImagesInDev: true,
   }],
   {
     basePath: '/olsonjosh',
     assetPrefix: '/olsonjosh/',
-    env,
   },
 ]);

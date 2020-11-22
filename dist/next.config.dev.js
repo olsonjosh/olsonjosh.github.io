@@ -13,9 +13,9 @@ module.exports = withPlugins([[optimizedImages, {
     strip: true,
     verbose: true
   },
-  imagesPublicPath: '/olsonjosh/_next/static/images/'
+  imagesPublicPath: '/olsonjosh/_next/static/images/',
+  optimizeImagesInDev: true
 }], {
   basePath: '/olsonjosh',
-  assetPrefix: '/olsonjosh/',
-  env: env
+  assetPrefix: '/olsonjosh/'
 }]);
