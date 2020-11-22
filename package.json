@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "npm run build:css && next dev",
-    "build": "npm run build:css && next build",
+    "build": "npm run build:css && next build && next export",
     "start": "npm run build:css && next start",
     "build:css": "postcss src/styles/tailwind.scss -o src/styles/index.scss",
     "watch": "watch 'npm run build:css' ./src/styles"
