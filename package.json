@@ -11,13 +11,23 @@
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
+    "image-trace-loader": "^1.0.2",
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-svgo": "^8.0.0",
+    "jimp": "^0.16.1",
+    "lqip-loader": "^2.2.1",
     "next": "^10.0.2",
     "next-compose-plugins": "^2.2.1",
     "next-optimized-images": "^2.6.2",
     "node-sass": "^5.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "watch": "^1.0.2"
+    "responsive-loader": "^2.2.0",
+    "svg-sprite-loader": "^5.0.0",
+    "watch": "^1.0.2",
+    "webp-loader": "^0.6.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.9",
