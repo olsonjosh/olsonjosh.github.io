@@ -6,7 +6,7 @@
     "dev": "npm run build:css && next dev",
     "build": "npm run build:css && next build && next export",
     "start": "npm run build:css && next start",
-    "build:css": "postcss styles/tailwind.scss -o styles/index.scss",
+    "build:css": "postcss styles/tailwind.pcss -o styles/index.scss",
     "watch": "watch 'npm run build:css' ./styles"
   },
   "dependencies": {
