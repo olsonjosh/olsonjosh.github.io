@@ -1,9 +1,7 @@
 import Nav from '../components/nav'
-import Image from 'next/image'
 import { MDXProvider } from '@mdx-js/react'
 
 const components = {
-  img: Image
 }
 
 export default function Home(props) {
