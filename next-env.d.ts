@@ -1,3 +1,3 @@
 /// <reference types="next" />
 /// <reference types="next/types/global" />
-declare module '@next/mdx';
+/// <reference types="optimized-images-loader" />
