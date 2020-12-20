@@ -1,6 +1,6 @@
-import Layout from '~/components/Layout';
-import { getAllDocs, getDocBySlug } from '~/lib/docs';
-import markdownToHtml from '~/lib/markdown';
+import Layout from '~/src/components/Layout';
+import { getAllDocs, getDocBySlug } from '~/src/lib/docs';
+import markdownToHtml from '~/src/lib/markdown';
 
 export default function Doc({ meta, content }) {
   return <Layout meta={meta}>{content}</Layout>;
@@ -29,6 +29,6 @@ export async function getStaticPaths() {
         }
       };
     }),
-    fallback: 'unstable_blocking'
+    fallback: true
   };
 }
