@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6764577-1d78-48ae-a18f-fd700dc94ee6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-pack/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/_default/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/_default/languages.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/_default/menus.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/admin/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/admin/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/吳恩達/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/吳恩達/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/courses/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/courses/example/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/courses/example/example1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/courses/example/example2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/accomplishments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/contact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/demo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/experience.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/featured.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/gallery/gallery/theme-1950s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/gallery/gallery/theme-apogee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/gallery/gallery/theme-coffee-playfair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/gallery/gallery/theme-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/gallery/gallery/theme-default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/gallery/gallery/theme-forest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/gallery/gallery/theme-ocean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/gallery/gallery/theme-strawberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/gallery/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/hero.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/posts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/projects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/publications.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/skills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/tags.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/home/talks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/getting-started/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/getting-started/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/jupyter/featured.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/jupyter/index.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/jupyter/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/jupyter/index_1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/writing-technical-content/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/writing-technical-content/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/writing-technical-content/line-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/privacy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/project/external-project/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/project/external-project/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/project/internal-project/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/project/internal-project/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/conference-paper/cite.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/conference-paper/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/conference-paper/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/journal-article/cite.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/journal-article/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/journal-article/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/preprint/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publication/preprint/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/slides/example/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/talk/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/talk/example/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/talk/example/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/terms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/main.scss_8eb176101042023239427cc6e6903092.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/main.scss_8eb176101042023239427cc6e6903092.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/main.scss_9f896623db74eba16a49d52c1955683d.content" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/main.scss_9f896623db74eba16a49d52c1955683d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/authors/吳恩達/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/home/gallery/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/home/gallery/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/home/gallery/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/home/gallery/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/home/gallery/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/home/gallery/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/home/gallery/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/home/gallery/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_1200x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q1_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_3bee33df93b424c927cae4eb977477e9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_150x0_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_150x0_resize_q1_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_720x0_resize_lanczos_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_fc3a843443169e04e986a89c27e047fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/writing-technical-content/featured_huc72159e0fc0d14b85f60d34436a630f0_266353_150x0_resize_q1_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/writing-technical-content/featured_huc72159e0fc0d14b85f60d34436a630f0_266353_150x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/writing-technical-content/featured_huc72159e0fc0d14b85f60d34436a630f0_266353_2560x2560_fit_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/post/writing-technical-content/featured_huc72159e0fc0d14b85f60d34436a630f0_266353_993663fd41a0e79bb337cf0d4669c742.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q1_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_677270d01e2a74604f712acc6ae0f707.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_720x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_150x0_resize_q1_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_150x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_720x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_ccd1fef74a201e3117e863920949b5db.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q1_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_677270d01e2a74604f712acc6ae0f707.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_720x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q1_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_720x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_808x455_fill_q1_lanczos_smart1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_808x455_fill_q75_lanczos_smart1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_9357d905b3024cabe8328c8afa85b5d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_e8aea9fc0259e0b1ed09f79e1c6ef7ed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q1_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_720x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_808x455_fill_q1_lanczos_smart1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_808x455_fill_q75_lanczos_smart1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_9357d905b3024cabe8328c8afa85b5d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_e8aea9fc0259e0b1ed09f79e1c6ef7ed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/journal-article/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_720x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/preprint/featured_hu559a5add5185b02575aa8333502ab2cc_220813_150x0_resize_q1_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/preprint/featured_hu559a5add5185b02575aa8333502ab2cc_220813_150x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/preprint/featured_hu559a5add5185b02575aa8333502ab2cc_220813_720x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/publication/preprint/featured_hu559a5add5185b02575aa8333502ab2cc_220813_9fecb64d5d1b0a1b979c2ef7e6b6f946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q1_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_720x0_resize_q75_lanczos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_gen/images/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_794e7248c71307072c6f00fa79fc9aa1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/boards.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/demo_resume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/headers/bubbles-wide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/hero-academic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/academic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docs/prism.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/docs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/[slug].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/tailwind.pcss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lwEpCrPYWQmrywbANHjpzNc2lC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="15.2.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2">
+        <option name="NpmBeforeRunTask" enabled="true">
+          <package-json value="$PROJECT_DIR$/package.json" />
+          <command value="run" />
+          <scripts>
+            <script value="dev" />
+          </scripts>
+          <node-interpreter value="project" />
+          <envs />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6764577-1d78-48ae-a18f-fd700dc94ee6" name="Default Changelist" comment="" />
+      <created>1608499935729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608499935729</updated>
+      <workItem from="1608499939634" duration="5391000" />
+      <workItem from="1608540026010" duration="946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
